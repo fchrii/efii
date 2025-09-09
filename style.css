@@ -1,0 +1,10 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.judul{
+text-align: center;
+}
+.isi{
+  padding: 20px;  
+}
